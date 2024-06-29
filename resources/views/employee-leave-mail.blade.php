@@ -1,0 +1,1 @@
+<h6>Hello {{ $name }}, your leave is {{ $status}}.</h6>

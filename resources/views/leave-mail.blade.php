@@ -1,0 +1,1 @@
+<h1>{{ $name }} apply leave {{$start_date}} to {{$end_date}}. The reason for this leave {{ $reason }}.</h1>
